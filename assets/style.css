@@ -25,6 +25,8 @@ body {
     text-align: center;
     background-color: aquamarine;
     height: 100%;
+    transform-style: preserve-3d;
+    transition: transforme 300ms ease-in-out;
 }
 
 .cartao__conteudo h3 {
@@ -52,6 +54,23 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
 }
+
+.cartao:hover.cartao__conteudo{
+    transform: rotateY(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

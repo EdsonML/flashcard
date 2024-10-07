@@ -4,14 +4,14 @@ body {
 }
 
 #container{
-display: flex;
+    display: flex;
 
 .cartao{
     margin: 1rem 1rem;
     background-color: blue;
-    height: 20rem;''
+    height: 20rem;
     flex-grow:1;
-    flex-basis: calc 33% -6 rem;
+    flex-basis: calc(100%-6rem);
 }
 
 .cartao__conteudo{

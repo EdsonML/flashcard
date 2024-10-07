@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url("imagens/bg-desktop.webp");
     font-family: Bai Jamjuree;
 }
 
@@ -52,6 +52,10 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
 }
+
+
+
+
 
 footer {
     background-color: black;

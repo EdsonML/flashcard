@@ -16,5 +16,4 @@ criaCartao(
     'O que é uma função?',
     'A função é um bloco de código que executa uma função',
 )
-}
 

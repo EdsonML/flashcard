@@ -11,8 +11,8 @@ body {
 
 #container {
     display: flex; 
-    grid-column: 3;
-    
+    grid-template-columns: min-content 3;
+
 }
 
 .cartao {

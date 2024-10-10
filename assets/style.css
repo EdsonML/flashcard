@@ -11,7 +11,8 @@ body {
 
 #container {
     display: flex; 
-    grid-template-columns: minmax( 1  1   1 );
+    <div class="row">
+      <div class="col-3">
 
 }
 

@@ -11,9 +11,6 @@ body {
 
 #container {
     display: flex; 
-    <div class="row">
-      <div class="col-3">
-
 }
 
 .cartao {

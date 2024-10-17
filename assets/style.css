@@ -6,6 +6,17 @@
   --card-back-color: #09683d;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
 body {
   background: url(imagens/bg-desktop-green.webp));
   font-family: Bai Jamjuree;

@@ -23,7 +23,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--text-color);
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
   }

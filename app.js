@@ -22,7 +22,7 @@ cartao.innerHTML =`
         cartao.classList.toggle ('active', respostaEstavisivel)
  }
 
- cartao.addEventListener( 'click', viraCartao)
- 
+ cartao.addEventListener('click', viraCartao)
+
  container.appendChild(cartao)
 }

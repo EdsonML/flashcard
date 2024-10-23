@@ -66,8 +66,8 @@ body {
 .cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
-    margin-top: 6rem;
-
+    margin-top: 4rem;
+font-size: 1.4vw;
 }
 
 .cartao__conteudo__pergunta p {

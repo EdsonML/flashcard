@@ -1,19 +1,39 @@
 criaCartao(
     'Programação', 
-    'O que é Phyton?',
-    'O Phyton é uma linguagem de programação',
+    'O que é GitHub?',
+    'GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem',
 )
    
 criaCartao(
-    'Geografia',
-    'Qual a capital do Paraná?',
-    'A capital do Paraná é Curitiba',
+    'QUÍMICA',
+    'O que é calor?',
+    'Calor é o fluxo de energia que flui do corpo mais quente em direção ao corpo mais frio',
 )
     
-
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'A função é um bloco de código que executa alguma função',
+    'O que é Algoritmo?',
+    'Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas',
 )
 
+criaCartao(
+    'SOBRE A MATEMÁTICA',
+    'Qual é a importância da Matemática?',
+    'A matemática é de grande importância para todos: importante para o crescimento e desenvolvimento da
+     humanidade',
+
+)criaCartao(
+    'Programação',
+    'O que é Algoritmo?',
+    'Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas',
+
+)criaCartao(
+    'GEOGRAFIA',
+    'Qual a capital do Paraná?',
+    'A capital do paraná é Curitiba',
+
+)criaCartao(
+    'FÍSICA',
+    'O que é inércia?',
+    'Resistência que a matéria oferece à aceleração',
+)

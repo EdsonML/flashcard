@@ -89,10 +89,12 @@ body {
     position: absolute;
     height: 100%;
     width: 100%;
+    box-sizing: border-box;
 }
 
 .cartao__conteudo__resposta{
     transform: rotateY(180deg);
+    background-color: rgba(19, 36, 195, 0.8)
 }
 
 

@@ -8,7 +8,7 @@ cartao.innerHTML =`
     <h3>${categoria}</h3>
     <div class="cartao__conteudo__pergunta">
     <p>${pergunta}</p>
-     </div>
+     </div> 
     <div class="cartao__conteudo__resposta">
     <p>${resposta}</p>
     </div>
@@ -17,9 +17,9 @@ cartao.innerHTML =`
 
     let respostaEstaVisivel = false
 
-    function viraCartao() {
-        respostaVisivel = !respostaEstaVisivel
-        cartao.classList.toggle ('active, respostaEstavisivel')
+    function viraCartao () {
+        respostaEstaVisivel = !respostaEstaVisivel
+        cartao.classList.toggle ('active', respostaEstavisivel)
  }
 
  cartao.addEventListener( 'click', viraCartao)

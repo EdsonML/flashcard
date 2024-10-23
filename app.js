@@ -7,10 +7,10 @@ function criaCartao(categoria, pergunta, resposta) {
      <div class="cartao__conteudo">
      <h3>${categoria}</h3>
     <div class="cartao__conteudo__pergunta">
-    <p>O que é GITHUB?</p>
+    <p>${pergunta}</p>
      </div>
     <div class="cartao__conteudo__resposta">
-    <p>O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem</p>
+    <p>${resposta}m</p>
     </div>
     </div>
  `

@@ -19,8 +19,7 @@ criaCartao(
 criaCartao(
     'SOBRE A MATEMÁTICA',
     'Qual é a importância da Matemática?',
-    'A matemática é de grande importância para todos: importante para o crescimento e desenvolvimento da
-     humanidade',
+    'A matemática é de grande importância para todos: importante para o crescimento e desenvolvimento da humanidade',
 
 )
 criaCartao(
@@ -43,7 +42,7 @@ criaCartao(
 )
 
 criaCartao( 
-    'GEOGRAFIA',]
+    'GEOGRAFIA',
     'Qual a capital do Brasil', 
     'A capital do Brasil é Brasília'
 

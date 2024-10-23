@@ -53,7 +53,7 @@ body {
 
 .cartao__conteudo h3 {
     color: var(--text-color);
-    border: 1px solid var(rgba(128, 141, 124, 1));
+    border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position: absolute;

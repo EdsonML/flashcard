@@ -44,7 +44,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--text-color);
+    background-color: var(rgba(128, 141, 124, 1);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;

@@ -129,6 +129,10 @@ footer p {
     .cartao__conteudo h3{
         font-size: 3vw;
     }
+    
+.cartao__conteudo p { 
 
-    }
+    font-size: 3.8vw;
+
+}
 }

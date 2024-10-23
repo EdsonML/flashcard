@@ -94,8 +94,8 @@ body {
 
 .cartao__conteudo__resposta{
     transform: rotateY(180deg);
-    background-color: rgba(36, 49, 152, 0.7)
-    border: 4px  solid var(--card-front-color));
+    background-color: rgba(36, 49, 152, 0.7);
+    border: 4px  solid var(--card-back-color);
 }
 
 

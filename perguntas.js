@@ -22,18 +22,29 @@ criaCartao(
     'A matemática é de grande importância para todos: importante para o crescimento e desenvolvimento da
      humanidade',
 
-)criaCartao(
+)
+criaCartao(
     'Programação',
     'O que é Algoritmo?',
     'Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas',
 
-)criaCartao(
+)
+criaCartao(
     'GEOGRAFIA',
     'Qual a capital do Paraná?',
     'A capital do paraná é Curitiba',
 
-)criaCartao(
+)
+
+criaCartao(
     'FÍSICA',
     'O que é inércia?',
     'Resistência que a matéria oferece à aceleração',
+)
+
+criaCartao( 
+    'GEOGRAFIA',]
+    'Qual a capital do Brasil', 
+    'A capital do Brasil é Brasília'
+
 )

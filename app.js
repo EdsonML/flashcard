@@ -1,7 +1,7 @@
 function criaCartao(categoria, pergunta, resposta) {
    let container = document.getElementById ('container')
-   let cartao = document.creatElement ('article')
-   cartao.classname = 'cartao'
+   let cartao = document.createElement ('article')
+   cartao.className = 'cartao'
 
     cartao.innerHTML =`
      <div class="cartao__conteudo">
@@ -10,7 +10,7 @@ function criaCartao(categoria, pergunta, resposta) {
     <p>${pergunta}</p>
      </div>
     <div class="cartao__conteudo__resposta">
-    <p>${resposta}m</p>
+    <p>${resposta}</p>
     </div>
     </div>
  `

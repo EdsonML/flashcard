@@ -1,7 +1,7 @@
 criaCartao(
     'Programação', 
     'O que é GitHub?',
-    'GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem',
+    'GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem'
 )
    
 criaCartao(

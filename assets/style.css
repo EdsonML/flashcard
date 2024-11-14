@@ -18,7 +18,7 @@ body, html {
 }
 
 body {
-  background: url(imagens/bg-desktop-green.webp);
+  background: var(--card-front-color);
   font-family: Bai Jamjuree;
 }
 
@@ -118,7 +118,7 @@ footer p {
 @media (max-width: 560px){ 
 
     body{ 
-        background: var(--card-back-color);
+        background: url(imagens/bg-mobile.webp);
 
     }
     

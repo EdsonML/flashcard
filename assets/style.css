@@ -20,7 +20,7 @@ body, html {
 }
 
 body {
-  background: var(--card-front-color);
+  background: var(--cor-de-fundo);
   font-family: Bai Jamjuree;
 }
 

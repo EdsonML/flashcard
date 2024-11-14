@@ -118,7 +118,7 @@ footer p {
 @media (max-width: 560px){ 
 
     body{ 
-        background: url(imagens/bg-mobile.webp);
+        background: var(--card-back-color);
 
     }
     

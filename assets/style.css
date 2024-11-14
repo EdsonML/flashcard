@@ -18,7 +18,7 @@ body, html {
 }
 
 body {
-  background: url(imagens/bg-desktop-green.webp);
+  background: --card-back-color
   font-family: Bai Jamjuree;
 }
 

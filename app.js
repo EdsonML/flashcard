@@ -13,7 +13,6 @@ cartao.innerHTML =`
     <p>${resposta}</p>
     </div>
     </div>
- `
 
     let respostaEstaVisivel = false
 

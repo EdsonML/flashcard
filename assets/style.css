@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 
 :root{
-  --text-color: hsl(20, 27%, 98%);
+  --text-color: hsl(0, 20%, 98%);
   --card-front-color: #6B8A7A;
-  --card-back-color: #B7B597;
-  --cor-de-fundo: #254336;    
+  --card-back-color: #99da9b;
+  --cor-de-fundo: #7cedbc;    
 
 }
 

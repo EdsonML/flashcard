@@ -20,7 +20,7 @@ body, html {
 }
 
 body {
-  background: var(--cor-de-fundo-color);
+  background: url(imagens/bg-desktop-green.webp);
   font-family: Bai Jamjuree;
 }
 
